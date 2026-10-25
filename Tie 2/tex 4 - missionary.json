@@ -1,0 +1,190 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2BottomBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1199,
+                        "height": 583
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2RolledUpFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 598,
+                        "width": 1038,
+                        "height": 265
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 873,
+                        "width": 512,
+                        "height": 465
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2AltWaist",
+                    "RectInt": {
+                        "x": 527,
+                        "y": 873,
+                        "width": 556,
+                        "height": 303
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2SleeveL",
+                    "RectInt": {
+                        "x": 1093,
+                        "y": 873,
+                        "width": 323,
+                        "height": 299
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Chest",
+                    "RectInt": {
+                        "x": 527,
+                        "y": 1186,
+                        "width": 400,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2SleeveR",
+                    "RectInt": {
+                        "x": 1093,
+                        "y": 1182,
+                        "width": 328,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - missionary_texture0_layer0.png",
+            "Layer": 20,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 873,
+                        "width": 512,
+                        "height": 465
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - missionary_texture0_layer1.png",
+            "Layer": 21,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 873,
+                        "width": 512,
+                        "height": 465
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - missionary_texture0_layer2.png",
+            "Layer": 22,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 873,
+                        "width": 512,
+                        "height": 465
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - missionary_texture0_layer3.png",
+            "Layer": 23,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 873,
+                        "width": 512,
+                        "height": 465
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

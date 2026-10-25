@@ -1,0 +1,260 @@
+{
+    "PackedTextures": [
+        
+        {
+            "TextureName": "tex 13 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                
+                
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 281,
+                        "width": 59,
+                        "height": 56
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": true
+        },{
+            "TextureName": "tex 13 - doggy_texture0_layer0.png",
+            "Layer": 16,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 201,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 281,
+                        "width": 59,
+                        "height": 56
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 13 - doggy_texture0_layer1.png",
+            "Layer": 17,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 266
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 201,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 281,
+                        "width": 59,
+                        "height": 56
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 13 - doggy_texture0_layer2.png",
+            "Layer": 18,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 266
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 201,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 281,
+                        "width": 59,
+                        "height": 56
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 13 - doggy_texture0_layer3.png",
+            "Layer": 19,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 266
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 201,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 281,
+                        "width": 59,
+                        "height": 56
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

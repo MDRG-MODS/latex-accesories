@@ -1,0 +1,18 @@
+{
+    "name": "Default mod name",
+    "description": "Put your mod's description here",
+    "modVersion": "1.0.0",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.97.5",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639230912063682115,
+        "guid": {
+            "serializedGuid": "428f8e7a-42b7-4d20-9084-ef121dbf48bb"
+        }
+    }
+}

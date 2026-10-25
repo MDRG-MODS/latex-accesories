@@ -1,0 +1,208 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 7 - missionary_texture0_layer0.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 175,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer0.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 50,
+                        "height": 53
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 65,
+                        "y": 5,
+                        "width": 51,
+                        "height": 48
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 7 - missionary_texture0_layer1.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 175,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer1.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 50,
+                        "height": 53
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 65,
+                        "y": 5,
+                        "width": 51,
+                        "height": 48
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 7 - missionary_texture0_layer2.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 175,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer2.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 50,
+                        "height": 53
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 65,
+                        "y": 5,
+                        "width": 51,
+                        "height": 48
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

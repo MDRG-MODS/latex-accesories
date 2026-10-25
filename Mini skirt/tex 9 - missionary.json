@@ -1,0 +1,188 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 9 - missionary_texture0_layer0.png",
+            "Layer": 20,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 529,
+                        "height": 360
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 375,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 375,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 9 - missionary_texture0_layer1.png",
+            "Layer": 21,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 529,
+                        "height": 360
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 375,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 375,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 9 - missionary_texture0_layer2.png",
+            "Layer": 22,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 529,
+                        "height": 360
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 375,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 375,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 9 - missionary_texture0_layer3.png",
+            "Layer": 23,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 529,
+                        "height": 360
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 375,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 375,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

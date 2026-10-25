@@ -1,0 +1,110 @@
+{
+    "PackedTextures": [
+         {
+            "TextureName": "tex 7 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                
+                 {
+                    "Name": "Barcode",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 63,
+                        "height": 48
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+                
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },{
+            "TextureName": "tex 7 - missionary_texture0_layer0.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 303,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+                
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 7 - missionary_texture0_layer1.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+
+                
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 7 - missionary_texture0_layer2.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+
+                
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

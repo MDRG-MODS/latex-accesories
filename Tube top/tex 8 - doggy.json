@@ -1,0 +1,50 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 8 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "BraLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 201,
+                        "height": 264
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "BraChest",
+                    "RectInt": {
+                        "x": 216,
+                        "y": 5,
+                        "width": 132,
+                        "height": 102
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "BraUpper",
+                    "RectInt": {
+                        "x": 216,
+                        "y": 117,
+                        "width": 67,
+                        "height": 134
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

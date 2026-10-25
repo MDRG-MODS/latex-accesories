@@ -1,0 +1,85 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 15 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 485,
+                        "y": 5,
+                        "width": 123,
+                        "height": 90
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 485,
+                        "y": 105,
+                        "width": 125,
+                        "height": 88
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": true
+        },
+        {
+            "TextureName": "tex 15 - blowjob_texture0_layer0.png",
+            "Layer": 16,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 470,
+                        "height": 396
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 411,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastR",
+                    "RectInt": {
+                        "x": 279,
+                        "y": 411,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

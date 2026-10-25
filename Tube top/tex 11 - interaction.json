@@ -1,0 +1,288 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 11 - interaction_texture0_layer12.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 126,
+                        "height": 118
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 126,
+                        "height": 118
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },{
+            "TextureName": "tex 11 - interaction_texture0_layer12.png",
+            "Layer": 16,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestL",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 5,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestR",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 343,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 11 - interaction_texture0_layer13.png",
+            "Layer": 17,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestL",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 5,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestR",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 343,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 11 - interaction_texture1_layer13.png",
+            "Layer": 18,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestL",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 5,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestR",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 343,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },{
+            "TextureName": "tex 11 - interaction_texture1_layer14.png",
+            "Layer": 19,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestL",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 5,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestR",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 343,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 11 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "ShadowBoobR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 261,
+                        "height": 217
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "ShadowBoobL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 232,
+                        "width": 245,
+                        "height": 217
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 11 - interaction_texture2_layer13.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "ShadowBoobR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 261,
+                        "height": 217
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "ShadowBoobL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 232,
+                        "width": 245,
+                        "height": 217
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

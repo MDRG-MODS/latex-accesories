@@ -1,0 +1,188 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Panties_Above",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 530,
+                        "height": 226
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_Bottom",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 241,
+                        "width": 284,
+                        "height": 218
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_upper",
+                    "RectInt": {
+                        "x": 299,
+                        "y": 241,
+                        "width": 182,
+                        "height": 230
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer1.png",
+            "Layer": 1,
+            "PackedDrawables": [
+                {
+                    "Name": "Panties_Above",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 530,
+                        "height": 226
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_Bottom",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 241,
+                        "width": 284,
+                        "height": 218
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_upper",
+                    "RectInt": {
+                        "x": 299,
+                        "y": 241,
+                        "width": 182,
+                        "height": 230
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer2.png",
+            "Layer": 2,
+            "PackedDrawables": [
+                {
+                    "Name": "Panties_Above",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 530,
+                        "height": 226
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_Bottom",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 241,
+                        "width": 284,
+                        "height": 218
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_upper",
+                    "RectInt": {
+                        "x": 299,
+                        "y": 241,
+                        "width": 182,
+                        "height": 230
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer3.png",
+            "Layer": 3,
+            "PackedDrawables": [
+                {
+                    "Name": "Panties_Above",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 530,
+                        "height": 226
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_Bottom",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 241,
+                        "width": 284,
+                        "height": 218
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Panties_upper",
+                    "RectInt": {
+                        "x": 299,
+                        "y": 241,
+                        "width": 182,
+                        "height": 230
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
