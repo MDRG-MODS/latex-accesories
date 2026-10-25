@@ -1,0 +1,74 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 6 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 687,
+                        "height": 665
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "Dress2SleeveL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 680,
+                        "width": 434,
+                        "height": 665
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "Dress2SleeveR",
+                    "RectInt": {
+                        "x": 449,
+                        "y": 680,
+                        "width": 406,
+                        "height": 666
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "Dress2Chest",
+                    "RectInt": {
+                        "x": 702,
+                        "y": 5,
+                        "width": 548,
+                        "height": 360
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "Dress2AltBack",
+                    "RectInt": {
+                        "x": 865,
+                        "y": 680,
+                        "width": 519,
+                        "height": 384
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

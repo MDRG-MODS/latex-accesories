@@ -1,0 +1,74 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2Middle",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1823,
+                        "height": 2741
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2SleeveL",
+                    "RectInt": {
+                        "x": 1838,
+                        "y": 5,
+                        "width": 343,
+                        "height": 634
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2SleeveR",
+                    "RectInt": {
+                        "x": 1838,
+                        "y": 649,
+                        "width": 349,
+                        "height": 610
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Chest",
+                    "RectInt": {
+                        "x": 1838,
+                        "y": 1269,
+                        "width": 554,
+                        "height": 363
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Back",
+                    "RectInt": {
+                        "x": 1838,
+                        "y": 1642,
+                        "width": 450,
+                        "height": 368
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

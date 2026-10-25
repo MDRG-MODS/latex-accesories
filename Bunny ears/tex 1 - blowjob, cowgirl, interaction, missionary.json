@@ -1,0 +1,105 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 1 - blowjob, cowgirl, interaction, missionary_texture0_layer0.png",
+            "Layer": 90,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1024,
+                        "height": 2048
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob",
+                "cowgirl",
+                "interaction",
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - blowjob, cowgirl, interaction, missionary_texture0_layer1.png",
+            "Layer": 91,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1024,
+                        "height": 2048
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob",
+                "cowgirl",
+                "interaction",
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - blowjob, cowgirl, interaction, missionary_texture0_layer2.png",
+            "Layer": 92,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1024,
+                        "height": 2048
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob",
+                "cowgirl",
+                "interaction",
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - blowjob, cowgirl, interaction, missionary_texture0_layer3.png",
+            "Layer": 93,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1024,
+                        "height": 2048
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob",
+                "cowgirl",
+                "interaction",
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+      
+    ]
+}

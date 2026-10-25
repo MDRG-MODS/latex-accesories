@@ -1,0 +1,71 @@
+{
+    "PackedTextures": [
+        
+        {
+            "TextureName": "tex 1 - doggy_texture0_layer0.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 60,
+                        "height": 57
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - doggy_texture0_layer1.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 60,
+                        "height": 57
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - doggy_texture0_layer2.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 60,
+                        "height": 57
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

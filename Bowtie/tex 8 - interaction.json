@@ -1,0 +1,93 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer0.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer1.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer2.png",
+            "Layer": 15,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer3.png",
+            "Layer": 16,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+        
+    ]
+}

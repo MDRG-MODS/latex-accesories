@@ -1,0 +1,270 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 12 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+              
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 336,
+                        "y": 175,
+                        "width": 50,
+                        "height": 53
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 175,
+                        "width": 51,
+                        "height": 48
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        },{
+            "TextureName": "tex 12 - missionary_texture0_layer0.png",
+            "Layer": 16,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 328,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 336,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 349,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        },
+        {
+            "TextureName": "tex 12 - missionary_texture0_layer1.png",
+            "Layer": 17,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 328,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 336,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 349,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        },
+        {
+            "TextureName": "tex 12 - missionary_texture0_layer2.png",
+            "Layer": 18,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 328,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 336,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 349,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        },
+        {
+            "TextureName": "tex 12 - missionary_texture0_layer3.png",
+            "Layer": 19,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 328,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 336,
+                        "y": 5,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 349,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer20.png",
+            "Layer": 20,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 180,
+                        "y": 5,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 180,
+                        "y": 205,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 319,
+                        "y": 205,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer21.png",
+            "Layer": 21,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 180,
+                        "y": 5,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 180,
+                        "y": 205,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 319,
+                        "y": 205,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer22.png",
+            "Layer": 22,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 180,
+                        "y": 5,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 180,
+                        "y": 205,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 319,
+                        "y": 205,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

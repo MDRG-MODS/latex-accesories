@@ -1,0 +1,98 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 7 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2BottomBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1145,
+                        "height": 752
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2BottomFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 767,
+                        "width": 1202,
+                        "height": 370
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2AltWaist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1147,
+                        "width": 866,
+                        "height": 489
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2AltUpper",
+                    "RectInt": {
+                        "x": 881,
+                        "y": 1147,
+                        "width": 592,
+                        "height": 501
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Chest",
+                    "RectInt": {
+                        "x": 1160,
+                        "y": 5,
+                        "width": 568,
+                        "height": 300
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2RArm",
+                    "RectInt": {
+                        "x": 1483,
+                        "y": 1147,
+                        "width": 224,
+                        "height": 476
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2LArm",
+                    "RectInt": {
+                        "x": 1160,
+                        "y": 315,
+                        "width": 236,
+                        "height": 435
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

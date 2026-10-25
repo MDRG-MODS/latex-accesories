@@ -1,0 +1,188 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer0.png",
+            "Layer": 150,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 683,
+                        "height": 367
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 443,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer1.png",
+            "Layer": 151,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 683,
+                        "height": 367
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 443,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer2.png",
+            "Layer": 152,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 683,
+                        "height": 367
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 443,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer3.png",
+            "Layer": 153,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 683,
+                        "height": 367
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 443,
+                        "y": 382,
+                        "width": 428,
+                        "height": 591
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

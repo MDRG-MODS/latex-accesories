@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress1_Strings",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 512,
+                        "height": 356
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_Chest",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 371,
+                        "width": 563,
+                        "height": 282
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

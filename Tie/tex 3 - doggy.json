@@ -1,0 +1,86 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2BottomDown",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 482,
+                        "height": 683
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2BottomRolledUp",
+                    "RectInt": {
+                        "x": 497,
+                        "y": 5,
+                        "width": 354,
+                        "height": 642
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2AltRib",
+                    "RectInt": {
+                        "x": 497,
+                        "y": 657,
+                        "width": 412,
+                        "height": 404
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Waist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 698,
+                        "width": 296,
+                        "height": 334
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Sleeve",
+                    "RectInt": {
+                        "x": 861,
+                        "y": 5,
+                        "width": 198,
+                        "height": 356
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress2Chest",
+                    "RectInt": {
+                        "x": 311,
+                        "y": 698,
+                        "width": 176,
+                        "height": 172
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

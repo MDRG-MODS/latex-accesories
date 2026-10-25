@@ -1,0 +1,191 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress1_LowerBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 965,
+                        "height": 733
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_LowerFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 748,
+                        "width": 962,
+                        "height": 401
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_Waist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1159,
+                        "width": 670,
+                        "height": 289
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_Chest",
+                    "RectInt": {
+                        "x": 977,
+                        "y": 748,
+                        "width": 588,
+                        "height": 273
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_Ribcage",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 5,
+                        "width": 472,
+                        "height": 251
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_StringL",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 266,
+                        "width": 132,
+                        "height": 96
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Dress1_StringR",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 372,
+                        "width": 128,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer0.png",
+            "Layer": 16,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress1_Chest",
+                    "RectInt": {
+                        "x": 977,
+                        "y": 748,
+                        "width": 588,
+                        "height": 273
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer1.png",
+            "Layer": 17,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress1_Chest",
+                    "RectInt": {
+                        "x": 977,
+                        "y": 748,
+                        "width": 588,
+                        "height": 273
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer2.png",
+            "Layer": 18,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress1_Chest",
+                    "RectInt": {
+                        "x": 977,
+                        "y": 748,
+                        "width": 588,
+                        "height": 273
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer3.png",
+            "Layer": 19,
+            "PackedDrawables": [
+               
+                {
+                    "Name": "Dress1_Chest",
+                    "RectInt": {
+                        "x": 977,
+                        "y": 748,
+                        "width": 588,
+                        "height": 273
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+        
+    ]
+}

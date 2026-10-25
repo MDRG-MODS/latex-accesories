@@ -1,0 +1,94 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 10 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                
+                 {
+                    "Name": "Barcode",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 63,
+                        "height": 48
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+                
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 10 - cowgirl_texture0_layer0.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 10 - cowgirl_texture0_layer1.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 10 - cowgirl_texture0_layer2.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

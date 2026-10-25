@@ -1,0 +1,18 @@
+{
+    "name": "Reverse bunny accessories",
+    "description": "Put your mod's description here",
+"modVersion": "1.1.0",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.96.7",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639214012130852625,
+        "guid": {
+            "serializedGuid": "59366a3b-02ad-4d49-97c2-3724341ccc3f"
+        }
+    }
+}

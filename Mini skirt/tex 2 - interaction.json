@@ -1,0 +1,47 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - interaction_texture0_layer5.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2Middle",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1823,
+                        "height": 2741
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": true
+        },{
+            "TextureName": "tex 2 - interaction_texture0_layer5.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "Dress2Middle",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 1823,
+                        "height": 2741
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": true
+        }
+    ]
+}

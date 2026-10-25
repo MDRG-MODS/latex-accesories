@@ -1,0 +1,246 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer230.png",
+            "Layer": 230,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer231.png",
+            "Layer": 231,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer232.png",
+            "Layer": 232,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer233.png",
+            "Layer": 233,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer250.png",
+            "Layer": 250,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer251.png",
+            "Layer": 251,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer252.png",
+            "Layer": 250,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer600.png",
+            "Layer": 600,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer601.png",
+            "Layer": 601,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer602.png",
+            "Layer": 600,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer603.png",
+            "Layer": 603,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
